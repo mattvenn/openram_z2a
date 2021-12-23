@@ -1,0 +1,15 @@
+--- 
+# information
+project: 
+  title: "OpenRAM 1kybte 32x256 1rw 1ro"
+  license: LICENSE
+  module_name: 'openram_1kB'
+
+# source
+source:
+    - src/sky130_sram_1kbyte_1rw1r_32x256_8.v
+
+gds:
+  directory: "gds"
+  gds_filename: "sky130_sram_1kbyte_1rw1r_32x256_8.gds"
+  lef_filename: "sky130_sram_1kbyte_1rw1r_32x256_8.lef"
