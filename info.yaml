@@ -17,6 +17,12 @@ size:
     height: 397.5
 
 obstruction:
+    met1:
+        width: 479.78
+        height: 397.5
+    met2:
+        width: 479.78
+        height: 397.5
     met3:
         width: 479.78
         height: 397.5
