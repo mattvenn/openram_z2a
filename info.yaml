@@ -30,7 +30,7 @@ obstruction:
         width: 479.78
         height: 397.5
 
-gds:
-  directory: "gds"
+final:
+  directory: "final"
   gds_filename: "sky130_sram_1kbyte_1rw1r_32x256_8.gds"
   lef_filename: "sky130_sram_1kbyte_1rw1r_32x256_8.lef"
